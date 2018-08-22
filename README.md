@@ -16,5 +16,6 @@ Speed Limit
 Offset start/end are necessary in case the attributes (Functional Class, Lane Count, Speed Limit) are changed along a segment.
 
 output: Chicago_Lanes.geojson
+XYZ display: https://xyz.here.com/viewer/?project_id=e9bdf580-a638-11e8-9721-59af634cacdd
 
 The geojson displays number of lanes as lines on the roads according to the Lane count. The pop up box contains all other information.
