@@ -1,7 +1,9 @@
-# Vehicle accidents correlated with road attributes
+# Vehicle accidents are clustered using DBScan and correlated with road attributes
 
 Vehicle accident data is obtained from Chicago city data portal:
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3
+
+Clustering is done by sklearn DBScan.
 
 Road attribute data is extracted from HERE Map Content using OLP SDK 1.6.1.2.
 
@@ -27,4 +29,4 @@ Files:
 
 XYZ display: https://xyz.here.com/viewer/?project_id=e9bdf580-a638-11e8-9721-59af634cacdd
 
-The geojson displays number of lanes as lines on the roads according to the Lane count. The pop up box contains all other information. The csv file contains Chicago vehicle crash data happened in July 2018 filtered by the given area. 
+The geojson displays number of lanes as lines on the roads according to the Lane count. The pop up box contains all other information. The csv file contains Chicago vehicle crash data happened in July 2018 filtered by the given area. The clustering outputs are grouped by outline circles with different colors. Due to the number of space limit on XYZ dataset, only the first 5 clusters are shown.
