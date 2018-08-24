@@ -18,8 +18,8 @@ Key features on XYZ display:
   4. The clustering outputs are grouped by outline circles with different colors. 
   5. Total 25 clusters were found, but eue to the number of space limit on XYZ dataset, only the first 5 clusters are shown.
 
-![road_attributes]()
-![crash_attributes]()
+![road_attributes](https://github.com/dwjang/xyzhackathon/blob/master/popup-roadattributes.png)
+![crash_attributes](https://github.com/dwjang/xyzhackathon/blob/master/popup-accidentattributes.png)
 
 Files: 
 
