@@ -18,6 +18,9 @@ Key features on XYZ display:
   4. The clustering outputs are grouped by outline circles with different colors. 
   5. Total 25 clusters were found, but eue to the number of space limit on XYZ dataset, only the first 5 clusters are shown.
 
+![road_attributes]()
+![crash_attributes]()
+
 Files: 
 
   inputs: local copy of Chicago Traffic Crashes data and filtered data
