@@ -44,9 +44,7 @@ Files:
   
   clustering.py: perform DBScan clustering
 
-  RoadAttributes.scala: It is supposed to be run within HERE OLP SDK 1.6.1.2.
-  
-  It extracts various road attributes from a given latitude, longitude, and radius.
+  RoadAttributes.scala: It is supposed to be run within HERE OLP SDK 1.6.1.2. It extracts various road attributes from a given latitude, longitude, and radius.
   
   The extracted information is:
   
