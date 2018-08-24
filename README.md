@@ -1,6 +1,4 @@
-# xyzhackathon
-
-Traffic Accidents correlation with road attributes
+# Traffic Accidents correlation with road attributes
 
 Vehicle accident data is obtained from Chicago city data portal:
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3
