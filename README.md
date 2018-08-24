@@ -5,7 +5,7 @@ https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3
 
 Road attribute data is extracted from HERE Map Content using OLP SDK 1.6.1.2.
 
-Result: Display both data to see if there is any correlation.
+Result: Display both data to see if there is any correlation such as injury frequency vs number of lanes.
 
 Files: 
   RoadAttributes.scala is supposed to be run within HERE OLP SDK 1.6.1.2.
