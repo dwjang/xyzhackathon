@@ -1,9 +1,9 @@
-# Vehicle accidents are clustered using DBScan and correlated with road attributes
+# Vehicle accidents are clustered and correlated with road attributes
 
 Vehicle accident data is obtained from Chicago city data portal:
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3
 
-Clustering is done by sklearn DBScan.
+Clustering is done by DBScan.
 
 Road attribute data is extracted from HERE Map Content using OLP SDK 1.6.1.2.
 
