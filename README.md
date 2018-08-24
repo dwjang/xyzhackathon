@@ -19,15 +19,19 @@ Key features on XYZ display:
   5. Total 25 clusters were found, but eue to the number of space limit on XYZ dataset, only the first 5 clusters are shown.
 
 Number of lanes are displayed:
+
 ![lanes](https://github.com/dwjang/xyzhackathon/blob/master/zoom_lanes.png)
 
 Clusters are shown:
+
 ![clusters](https://github.com/dwjang/xyzhackathon/blob/master/zoom_clusters.png)
 
 Road attributes are shown on the popup window:
+
 ![road_attributes](https://github.com/dwjang/xyzhackathon/blob/master/popup-roadattributes.png)
 
 Accident attributes are shown on the popup window:
+
 ![crash_attributes](https://github.com/dwjang/xyzhackathon/blob/master/popup-accidentattributes.png)
 
 Files: 
