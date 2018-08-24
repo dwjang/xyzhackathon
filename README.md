@@ -37,8 +37,11 @@ Accident attributes are shown on the popup window:
 Files: 
 
   inputs: local copy of Chicago Traffic Crashes data and filtered data
+  
   results: clustering output files as csv
+  
   filter.py: filter crash data for July 2018 only
+  
   clustering.py: perform DBScan clustering
 
   RoadAttributes.scala:
